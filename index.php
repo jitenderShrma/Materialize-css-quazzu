@@ -1,1 +1,1 @@
-<? Header(Location: './index.html') ?>
+<? header('Location: ./index.html') ?>
